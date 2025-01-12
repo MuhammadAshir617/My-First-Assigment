@@ -2,6 +2,16 @@ body {
     background-color: papayawhip;
 }
 
+.logo {
+    height: 50px;
+    display: flex;
+    align-items: center;
+}
+
+.font   {
+    font-size: 60px;
+}
+
 p+h6 {
     color: red;
 }
