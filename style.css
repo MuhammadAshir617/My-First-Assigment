@@ -1,11 +1,30 @@
+body {
+    background-color: papayawhip;
+}
+
+p+h6 {
+    color: red;
+}
+
+p {
+    color: red;
+}
+
 h1 {
     color: blue;
 }
- 
+
+
 h2 {
     color: blue;
 }
 
 .A1 {
-    color: red;
+    color: blue;
+}
+
+img {
+    border: 3px solid blue;
+    border-bottom: 3px solid red;
+    border-left: 3px solid red;
 }
